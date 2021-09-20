@@ -1,2 +1,5 @@
-# projects
-this is example
+Include<stdio.h> 
+void main()
+{
+  printf("hello world");
+}
